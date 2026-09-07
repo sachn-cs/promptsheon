@@ -1,0 +1,8 @@
+title: "promptsheon"
+description: "Git-native version control for AI agents — content-addressable prompt management, evaluation engine, and agent configuration versioning built in Go."
+theme: minima
+logo: /assets/logo.svg
+show_downloads: false
+permalink: /:title/
+plugins:
+  - jekyll-feed
